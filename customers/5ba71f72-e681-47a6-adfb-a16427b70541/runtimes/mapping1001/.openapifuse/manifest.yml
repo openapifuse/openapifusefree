@@ -1,5 +1,0 @@
-# OpenAPIFuse runtime manifest (RT-ADR-3)
-runtimeId: a19d7d29-64e3-431f-999a-e58d90c3a06b
-mappingVersionId: 5a3b41a3-7925-4226-acd9-a58bf9f13085
-versionTag: v1
-template: SPRING_BOOT:TRANSFORM_ONLY:v1
